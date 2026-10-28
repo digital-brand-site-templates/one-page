@@ -1,0 +1,32 @@
+{
+  "category": "one-page",
+  "templates": [
+    {
+      "name": "Designing",
+      "folder": "designing",
+      "version": "1.0.0",
+      "description": "Designing \u2013 static HTML/Bootstrap One Page website template.",
+      "idealFor": [
+        "freelance graphic designers",
+        "web designers",
+        "creative portfolios"
+      ],
+      "requiredClientInputs": [
+        "designerName",
+        "jobTitle",
+        "portfolioImages",
+        "contactEmail",
+        "socialLinks"
+      ],
+      "preview": "designing/preview.png",
+      "orderNumber": "TVORD73531622",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
+    }
+  ]
+}

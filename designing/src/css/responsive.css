@@ -1,0 +1,361 @@
+/*
+Template Name: Julie-Klok
+File Name: responsive.css
+Author Name: ThemeVault
+Author URI: http://www.themevault.net/
+License URI: http://www.themevault.net/license/
+*/
+
+/* Landscape phones and smaller */
+@media (min-width: 1199px) and (max-width: 1240px) {
+
+}
+@media (max-width: 1199px) {
+    .section-padding {
+        padding-top: 60px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+@media (max-width: 991px) {
+    .section-padding {
+        padding-top: 70px;
+    }
+    .divider-140 {
+        height: 70px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    #subscribe h4 {
+        margin-bottom: 30px;
+    }
+    #feature {
+        padding: 70px 0;
+    }
+    footer {
+        padding: 70px 0 40px;
+    }
+    .feature-head-title, .service-title {
+        font-size: 18px;
+        letter-spacing: 0.5px;
+        margin: 30px 0 20px;
+    }
+    #feature p, #services p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    #feature .row > div:nth-child(-n+3) {
+        margin-bottom: 70px;
+    }
+    .banner-full-image{
+        height: 600px;
+    }
+    .banner-title > h1{
+        font-size: 40px;
+    }
+    .middle-title{
+        font-size: 16px;
+    }
+    .banner-title > h4{
+        font-size: 22px;
+        letter-spacing: 2px
+    }
+    .head-title > h3{
+        font-size: 24px;
+        margin-bottom: 35px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    .media-body.information p {
+        font-size: 13.5px;
+        line-height: 21px;
+        margin-top: 10px;
+    }
+    #service .row > div > div + div {
+        margin-top: 45px;
+    }
+    .desc-text {
+        font-size: 13px;
+        letter-spacing: 1px;
+        line-height: 22px;
+    }
+    .contact-form input, .contact-form textarea {
+        font-size: 15px;
+    }
+    .contact-form .form-group {
+        margin-bottom: 45px;
+    }
+    #professional .media img {
+        margin-right: 5px;
+        max-width: 32px;
+    }
+    .information > h5 {
+        line-height: 18px;
+    }
+    .service-title{
+        letter-spacing: 0.1px;
+        font-size: 17px;
+    }
+
+
+}
+
+@media (max-width: 767px) {
+    .section-padding {
+        padding-top: 45px;
+    }
+    .add-space-mobile-view {
+        margin-top: 45px;
+    }
+    .divider-140 {
+        height: 45px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    .banner-full-image{
+        margin-top: 51px;
+    }
+    #subscribe h4 {
+        margin-bottom: 20px;
+    }
+    #feature {
+        padding: 45px 0;
+    }
+    footer {
+        padding: 45px 0 20px;
+    }
+    .feature-head-title, .service-title {
+        font-size: 16px;
+        letter-spacing: 0.5px;
+        margin: 15px 0 10px;
+    }
+    #feature .row > div:nth-child(n+1) {
+        margin-bottom: 45px;
+    }
+    #feature .row > div:nth-last-child(-n+1) {
+        margin-bottom: 0px;
+    }
+    #latest-work .row > div:nth-child(n+1) {
+        margin-bottom: 15px
+    }
+    #latest-work .row > div:nth-last-child(-n+1) {
+        margin-bottom: 0px
+    }
+    #feature p, #services p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .social-icon-top-head ul li + li {
+        margin-left: 15px;
+    }
+    .social-icon-top-head ul li a {
+        height: 30px;
+        line-height: 28px;
+        width: 30px;
+    }
+    .navbar-nav > li + li {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    .icon-block {
+        margin-bottom: 15px;
+    }
+    .navbar-default .navbar-nav {
+        margin-top: 15px;
+    }
+    .navbar > .container .navbar-brand {
+        margin-top: 0;
+    }
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+        border-color: rgba(0,0,0,0);
+    }
+    .navbar > .container .navbar-brand{
+        margin-left: 0px;
+    }
+    .navbar-nav{
+        padding-left: 10px;
+    }
+    .banner-full-image{
+        height: 450px;
+    }
+    .banner-title > h1{
+        font-size: 30px;
+        letter-spacing: 2px
+    }
+    .banner-title > h4{
+        font-size: 22px;
+
+    }
+    .desc-text {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .offspace-45{
+        margin-top: 35px;
+    }
+
+    .information > h1{
+        margin: 20px 0 15px 0;
+    }
+    .service-title {
+        margin: 25px 0 15px;
+    }
+
+    .information {
+        border-bottom: 1px dotted rgba(255, 255, 255, 0.3);
+    }
+    .list-title p {
+        font-size: 14px;
+    }
+    .progress {
+        height: 20px;
+        padding: 3px;
+        margin-bottom: 0;
+    }
+    .progress > span {
+        font-size: 13px;
+        line-height: 1.3;
+    }
+    .progress-block .single-skill + .single-skill {
+        margin-top: 10px;
+    }
+    #team-block .image {
+        margin-bottom: 20px;
+    }
+    #team-block .row > div + div {
+        margin-top: 20px;
+    }
+    .full-bg-image {
+        padding: 45px 0;
+    }
+    #service .media-body.information {
+        padding-left: 15px;
+    }
+    .copyright {
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 1px;
+    }
+    footer{
+        padding: 15px 0;
+    }
+
+    footer .up-arrow {
+        padding: 1px 6px;
+        top: -12px;
+    }
+    .contact-form .form-group {
+        margin-bottom: 30px;
+    }
+    .contact-form input {
+        height: 30px;
+        padding: 0 12px 15px;
+        font-size: 13px;
+    }
+    .contact-form textarea {
+        font-size: 13px;
+    }
+    .action-buttons button {
+        font-size: 15px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+    }
+
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+
+
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .width-set-50 {
+        width: 50%;
+    }
+    #feature p, #services p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    #feature .row > div:nth-last-child(-n+2) {
+        margin-bottom: 0px;
+    }
+    #latest-work .row > div:nth-child(n+1) {
+        margin-bottom: 30px
+    }
+    #latest-work .row > div:nth-last-child(-n+2) {
+        margin-bottom: 0px
+    }
+    #team-block .row > div + div {
+        margin-top: 0px;
+    }
+    #team-block .row > div:nth-child(-n+2) {
+        margin-bottom: 25px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .banner-full-image{
+        height: 400px;
+    }
+    .banner-title > h1{
+        font-size: 24px;
+    }
+    .banner-title > h4 {
+        font-size: 14px;
+    }
+
+    .desc-text {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .head-title > h3 {
+        font-size: 18px;
+
+    }
+    h1 {
+        font-size: 22px;
+    }
+    h4, h3 {
+        font-size: 15px;
+    }
+    .media-body.information p {
+        font-size: 12.5px;
+        line-height: 18px;
+        margin-top: 10px;
+    }
+    #service .row > div > div + div {
+        margin-top: 35px;
+    }
+    .btn {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    #subscribe h1, #subscribe h4 {
+        letter-spacing: 1px;
+    }
+    .service-title{
+        font-size: 16px;
+    }
+    #service .media-body.information {
+        padding-left: 5px;
+    }
+
+}
+
+
+
+
+
+
