@@ -1,0 +1,360 @@
+/*
+Template Name: Barret
+File Name: responsive.css
+Author Name: ThemeVault
+Author URI: http://www.themevault.net/
+License URI: http://www.themevault.net/license/
+*/
+
+/* Landscape phones and smaller */
+
+@media only screen and (min-width: 1200px) and (max-width: 1300px) {}
+@media only screen and (max-width: 1199px) {
+    .navbar-nav li a {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .tv-service-media {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .tv-service-media > img {
+        max-height: 38px;
+        max-width: 38px;
+    }
+    h3 {
+        font-size: 14px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+@media only screen and (max-width: 991px) {
+    .navbar-brand {
+        height: 46px;
+        max-width: 130px;
+        padding: 10px 15px;
+    }
+    .navbar-nav li a {
+        font-size: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .tv-slider-area {
+        height: 550px;
+    }
+    .tv-width-text-85 {
+        width: 95%;
+    }
+    .tv-section-padding {
+        padding-top: 80px;
+    }
+    h2 {
+        font-size: 24px;
+        letter-spacing: 4px;
+    }
+    .tv-service-list > div:nth-child(-n+3) .tv-service-box {
+        margin-top: 40px;
+    }
+    .tv-service-box {
+        display: table;
+        margin-top: 40px;
+    }
+    .tv-service-list > div:nth-child(-n+2) .tv-service-box {
+        margin-top: 0px;
+    }
+    .tv-service-list > div:nth-child(3), .tv-service-list > div:nth-child(5), .tv-service-list > div:nth-child(7) {
+        clear: left;
+    }
+    h3 {
+        font-size: 15px;
+    }
+    .tv-service-media > img {
+        max-height: 35px;
+        max-width: 35px;
+    }
+    .tv-image-list {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .tv-image-list > div:nth-child(-n+4) {
+        padding-top: 5px;
+    }
+    .tv-image-list > div:nth-child(-n+3) {
+        padding-top: 0px;
+    }
+    .tv-image-list > div {
+        padding: 5px;
+    }
+    .tv-value-show > h2 {
+        font-size: 50px;
+    }
+    .tv-section-padding-90 {
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+    .tv-work-wrapper {
+        max-width: 320px;
+        padding: 15px;
+    }
+    .tv-media a {
+        height: 90px;
+        width: 90px;
+    }
+    .tv-media a::after {
+        height: 90px;
+        width: 90px;
+    }
+    .counter {
+        font-size: 32px;
+    }
+    .tv-meta {
+        padding-left: 25px;
+    }
+    .tv-counter-block > .row > div:nth-child(-n+2) {
+        margin-bottom: 70px;
+    }
+    .tv-test-image {
+        bottom: -45px;
+    }
+    .tv-blog-post .tv-blog-summary .title {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .navbar-toggle .icon-bar {
+        background-color: #f72100;
+        width: 30px;
+    }
+    .navbar-toggle .icon-bar + .icon-bar {
+        margin-top: 6px;
+    }
+    .navbar-toggle {
+        margin-right: 0;
+        padding-right: 0;
+    }
+    .navbar-nav > li {
+        display: block;
+    }
+    .navbar-nav li a::after {
+        display: none;
+    }
+    .navbar-nav > li > a {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .nav.navbar-nav {
+        background-color: #fff;
+        margin-top: 5px;
+        padding: 15px;
+    }
+    .tv-slider-area {
+        height: 240px;
+    }
+    .tv-section-padding {
+        padding-top: 60px;
+    }
+    .tv-section-padding-bottom {
+        padding-bottom: 60px;
+    }
+    .tv-image-list > div:nth-child(-n+4) {
+        padding-top: 5px;
+    }
+    .tv-image-list > div:nth-child(-n+1) {
+        padding-top: 0px;
+    }
+    .tv-feature-area {
+        position: relative;
+    }
+    .tv-feature-area::after {
+        background-color: rgba(255, 255, 255, 0.9);
+        content: "";
+        height: 100%;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 100%;
+        z-index: 100;
+    }
+    .tv-feature-block {
+        z-index: 101;
+    }
+    .tv-media a, .tv-media a::after {
+        height: 80px;
+        width: 80px;
+    }
+    .counter {
+        font-size: 24px;
+    }
+    .tv-counter-block > .row > div:nth-child(n+1) {
+        margin-bottom: 40px;
+    }
+    .tv-counter-block > .row > div:last-child{
+        margin-bottom: 0px;
+    }
+    .tv-counter-block > .row > div:last-child .tv-counter-list  {
+        float: right;
+    }
+    .tv-feature-block ul li + li {
+        margin-top: 35px;
+    }
+    .contact-wrapper {
+        margin-top: 30px;
+        max-width: 320px;
+        min-height: 400px;
+    }
+    footer {
+        padding-bottom: 20px;
+        padding-top: 125px;
+    }
+    .copyright {
+        margin-top: 25px;
+    }
+    .copyright {
+        font-size: 12px;
+    }
+    #blog .row div + div {
+        margin-top: 24px;
+    }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .tv-image-list > div {
+        width: 50%;
+    }
+    .tv-image-list > div:nth-child(-n+2) {
+        padding-top: 0px;
+    }
+}
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+    .tv-slider-area {
+        height: 400px;
+    }
+    .navbar-nav > li > a {
+        padding-bottom: 7px;
+        padding-top: 7px;
+        font-size: 12px;
+    }
+    .tv-image-list > div {
+        width: 33.33%;
+    }
+    .tv-image-list > div:nth-child(-n+3) {
+        padding-top: 0px;
+    }
+    .tv-service-list > div, .tv-value-show > div {
+        width: 50%;
+    }
+    .tv-service-media {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .tv-service-media > img {
+        max-height: 28px;
+        max-width: 28px;
+    }
+    h3 {
+        font-size: 13px;
+    }
+    .tv-work-wrapper {
+        max-width: 260px;
+        padding: 10px;
+    }
+}
+@media only screen and (max-width: 479px) {}
+@media only screen and (max-width: 600px) {
+    .tv-user-image img {
+        max-width: 75px;
+    }
+    .tv-small-text-size {
+        font-size: 20px;
+        letter-spacing: 1px;
+    }
+    .tv-user-image {
+        margin-bottom: 20px;
+    }
+    .tv-width-text-85 {
+        width: 100%;
+    }
+    .tv-line-height-24 {
+        line-height: 22px;
+    }
+    .tv-service-list > div:nth-child(-n+3) .tv-service-box, .tv-service-box {
+        margin-top: 25px;
+    }
+    .tv-service-list > div:nth-child(-n+1) .tv-service-box {
+        margin-top: 0;
+    }
+    .tv-service-media {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .tv-service-media > img {
+        max-height: 30px;
+        max-width: 30px;
+    }
+    h3 {
+        font-size: 13px;
+    }
+    .tv-highlite-line::before, .tv-value-show > h2 {
+        display: none;
+    }
+    .tv-work-wrapper {
+        margin-bottom: 20px;
+    }
+    .tv-highlite-line:last-child .tv-work-wrapper {
+        margin-bottom: 0;
+    }
+    .tv-testimonial-block i {
+        font-size: 20px;
+    }
+    .tv-testimonial-block > p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    .tv-test-image {
+        bottom: -60px;
+    }
+    .tv-test-image > img {
+        max-width: 60px;
+    }
+    .testimonial-title {
+        margin-top: 20px;
+        padding-bottom: 20px;
+    }
+    .tv-testimonial-block {
+        margin-bottom: 25px;
+    }
+    .tv-blog-post .tv-blog-summary .title {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .tv-blog-summary > p {
+        font-size: 11.8px;
+        line-height: 18px;
+        text-align: left;
+    }
+    .btn {
+        font-size: 11px;
+        padding: 5px 10px;
+    }
+    .tv-blog-post .tv-blog-media .cat {
+        font-size: 13px;
+        padding: 10px;
+    }
+    .tv-single-blog-block .title-name h2 {
+        font-size: 18px;
+        letter-spacing: 1px;
+    }
+    .tv-single-blog-block {
+        padding: 50px 0;
+    }
+    .tv-cust-bq {
+        font-size: 1em;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .tv-user-image img {
+        max-width: 65px;
+    }
+}

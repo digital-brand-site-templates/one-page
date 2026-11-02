@@ -2,6 +2,62 @@
   "category": "one-page",
   "templates": [
     {
+      "name": "Bar-ret",
+      "folder": "bar-ret",
+      "version": "1.0.0",
+      "description": "Bar-ret \u2013 static HTML/Bootstrap One Page website template.",
+      "idealFor": [
+        "web developers",
+        "freelancers",
+        "personal portfolios"
+      ],
+      "requiredClientInputs": [
+        "personName",
+        "jobTitle",
+        "skills",
+        "portfolioImages",
+        "contactEmail",
+        "socialLinks"
+      ],
+      "preview": "bar-ret/preview.png",
+      "orderNumber": "TVORD95831632",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
+    },
+    {
+      "name": "Freck-le",
+      "folder": "freck-le",
+      "version": "1.0.0",
+      "description": "Freck-le \u2013 static HTML/Bootstrap One Page website template.",
+      "idealFor": [
+        "creative agencies",
+        "freelancers",
+        "one-page business sites"
+      ],
+      "requiredClientInputs": [
+        "businessName",
+        "services",
+        "portfolioImages",
+        "teamMembers",
+        "contactEmail",
+        "socialLinks"
+      ],
+      "preview": "freck-le/preview.png",
+      "orderNumber": "TVORD60231644",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
+    },
+    {
       "name": "Designing",
       "folder": "designing",
       "version": "1.0.0",

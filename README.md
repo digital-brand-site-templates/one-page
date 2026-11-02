@@ -8,4 +8,6 @@ Static website templates for the One Page category.
 
 Preview gallery: https://digital-brand-site-templates.github.io/one-page/
 
+- [Bar-ret](bar-ret/)
+- [Freck-le](freck-le/)
 - [Designing](designing/)
