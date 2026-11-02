@@ -1,0 +1,19 @@
+Rovan - Changelog
+
+Version 2.0
+- A complete new design, "Edit Suite": a deep green-graphite editing room lit by Rovan's neon green, set in Bai Jamjuree and Azeret Mono.
+- The hero is an editing timeline: eight projects sit as clips on Brand, Design, Photo and Video tracks, a playhead runs across them and the monitor shows the clip under it; hover or tap a clip to jump to it.
+- A transport-bar header with a live timecode that runs as you scroll, and a lit marker on the section you are reading.
+- Experience years drawn as tally marks, skills as audio level meters, testimonials as film subtitles and a footer laid out as a render queue with a newsletter sign-up.
+- Rebuilt on Bootstrap 5 with one small vanilla JavaScript file; jQuery and its plugins are gone.
+- Two new pages: a project case study (project details, brief, process, results, gallery, client quote and next project) and a 404 page.
+- Two ready-made HTML emails: a contact auto-reply and a newsletter welcome.
+- Real copy in place of placeholder text: about, six services, education and experience, two client testimonials and eight portfolio projects with a working category filter.
+- New project photos throughout (credits in IMAGE-CREDITS.txt).
+- Contact and newsletter forms work out of the box: labels, validation and a clear thank-you note.
+- Meta descriptions added to every page.
+- Fully responsive layouts designed for desktop, tablet and phone.
+- Fonts self-hosted (no Google Fonts requests); Font Awesome 6 icons.
+
+Version 1.0
+- Initial release.

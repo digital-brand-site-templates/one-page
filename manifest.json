@@ -83,6 +83,36 @@
           "TVORD30331596 Pro \u2014 Lifetime"
         ]
       }
+    },
+    {
+      "name": "Ro-van",
+      "folder": "ro-van",
+      "version": "2.0.0",
+      "description": "Ro-van \u2013 static HTML/Bootstrap One Page website template.",
+      "idealFor": [
+        "graphic designers",
+        "web designers",
+        "freelance creatives",
+        "personal portfolios"
+      ],
+      "requiredClientInputs": [
+        "personName",
+        "roleAndLocation",
+        "skills",
+        "portfolioProjects",
+        "testimonials",
+        "contactEmail",
+        "socialLinks"
+      ],
+      "preview": "ro-van/preview.png",
+      "orderNumber": "TVORD19631650",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
     }
   ]
 }

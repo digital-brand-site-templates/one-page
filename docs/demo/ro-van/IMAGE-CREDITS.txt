@@ -1,0 +1,15 @@
+Rovan 2.0 — photo credits
+
+The ZIP ships blurred placeholders; the live demo uses these photos (Pexels License, free to use).
+
+images/work-fenmoor-identity.jpg: https://kaboompics.com/ (https://www.pexels.com/@karola-g), https://www.pexels.com/photo/photograph-of-a-piece-of-white-paper-on-a-bright-pink-paper-5706034/
+images/work-oddly-packaging.jpg: Thesis (https://www.pexels.com/@thesis-130661384), https://www.pexels.com/photo/capsules-in-plastic-containers-with-labels-10132273/
+images/work-kiln-coffee.jpg: Karen Laårk Boshoff (https://www.pexels.com/@laarkstudio), https://www.pexels.com/photo/paper-cup-in-cardboard-box-7488469/
+images/work-northpage-web.jpg: Tranmautritam (https://www.pexels.com/@tranmautritam), https://www.pexels.com/photo/full-frame-shot-of-computer-326514/
+images/work-studio-portraits.jpg: Lucas D'Jesus (https://www.pexels.com/@jovemafoto), https://www.pexels.com/photo/man-with-black-curly-hair-posing-in-photo-studio-11156392/
+images/work-ridgeline.jpg: Orest Sv (https://www.pexels.com/@orestsv), https://www.pexels.com/photo/snow-covered-mountain-under-white-cloudy-sky-1821659/
+images/work-signal-film.jpg: Erik Mclean (https://www.pexels.com/@introspectivedsgn), https://www.pexels.com/photo/modern-filming-equipment-in-studio-11457402/
+images/work-harbour-film.jpg: Luke Miller (https://www.pexels.com/@bylukemiller), https://www.pexels.com/photo/man-holding-a-camcorder-13811053/
+images/case-kiln-card.jpg: https://kaboompics.com/ (https://www.pexels.com/@karola-g), https://www.pexels.com/photo/a-woman-holding-a-blank-card-5240020/
+images/case-kiln-night.jpg: Phil Desforges (https://www.pexels.com/@storybyphil), https://www.pexels.com/photo/man-sits-by-computer-in-dark-room-17486595/
+images/case-kiln-edit.jpg: Juan Gomez (https://www.pexels.com/@juanico), https://www.pexels.com/photo/close-up-of-screen-with-music-recording-software-11553189/
