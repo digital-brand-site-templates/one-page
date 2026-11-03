@@ -1,0 +1,95 @@
+{
+  "name": "tpl-one-page-edwin-eden",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve src",
+    "build": "echo static site, no build step",
+    "verify": "echo static site, nothing to verify"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "agentMeta": {
+    "category": "one-page",
+    "idealFor": [
+      "UX and UI designers",
+      "web designers",
+      "freelance product designers",
+      "personal design portfolios"
+    ],
+    "buildOutputDir": "src",
+    "customizationMap": {
+      "themeColors": "src/css/design.css",
+      "siteMetadata": "src/index.html (<head> title and meta tags)",
+      "navigation": "src/index.html (<header>/<nav> block, repeated in each page)",
+      "pagesDir": "src"
+    },
+    "requiredClientInputs": [
+      "personName",
+      "roleAndLocation",
+      "headshotOrHeroImage",
+      "servicesOffered",
+      "portfolioProjects",
+      "caseStudyContent",
+      "testimonials",
+      "blogPosts",
+      "contactEmail",
+      "phoneNumber",
+      "studioAddress",
+      "socialLinks"
+    ]
+  },
+  "source": {
+    "vendor": "ThemeVault",
+    "vendorUrl": "https://www.themevault.net",
+    "templateName": "Edwin-Eden",
+    "originalPackage": "one-page-edwin-eden.zip",
+    "originalSha256": "03a6180102897d3a839986f87a4e8bcbbacb39c086d7af8584cc29328aadeabd",
+    "downloadHistory": [
+      {
+        "date": "2026-11-03T13:37:04-05:00",
+        "orderNumber": "TVORD61731664",
+        "file": "one-page-edwin-eden.zip",
+        "retrievedFrom": "ThemeVault account download"
+      }
+    ],
+    "licenseHistory": [
+      {
+        "orderNumber": "TVORD61731664",
+        "purchaseDate": "2026-11-03T18:36:35Z",
+        "amount": 0.0,
+        "currency": "USD",
+        "receiptNumber": null,
+        "licenseType": "Template download (standard package)",
+        "creditRemovalPermitted": true,
+        "evidence": "Your ThemeVault order TVORD61731664 (email dated 2026-11-03T18:36:35Z)"
+      },
+      {
+        "orderNumber": "TVORD30331596",
+        "purchaseDate": "2026-10-27T18:24:00Z",
+        "orderCreated": "2026-10-27T18:20:00Z",
+        "amount": 129.0,
+        "currency": "USD",
+        "receiptNumber": null,
+        "paymentReferenceNumber": "69F57224VW8877631",
+        "paypalTransactionId": "2G4401177R3504237",
+        "paymentMethod": "PayPal",
+        "licenseType": "Pro \u2014 Lifetime",
+        "scope": "account-wide plan; the proof does not name specific templates",
+        "creditRemovalPermitted": null,
+        "evidence": "Email 'Fwd: Your ThemeVault order TVORD30331596' from danummer@gmail.com, received 2026-10-28T16:54Z (original 2026-10-27 2:24 PM EDT), with attachment 'ThemeVault License.pdf' (order page printout, 10/28/26)"
+      }
+    ],
+    "modifications": [
+      "Removed ThemeVault footer credit and backlink comment",
+      "Renamed brand/person name Edwin Eden (any spacing) -> Edwin-Eden in visible text, titles, meta tags and logo",
+      "Added preview.png, package.json, AGENTS.md"
+    ],
+    "missing": [
+      "receiptNumber (ThemeVault emails/PDF show no receipt number; see paymentReferenceNumber)"
+    ],
+    "originalTemplateName": "Edwin-Eden"
+  }
+}

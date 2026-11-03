@@ -1,0 +1,13 @@
+Edwin-Eden - Changelog
+
+Version 2.0
+- Complete redesign called Wireframe to Pixel: pistachio paper, ink black and one mint accent, Libre Bodoni headings with Sometype Mono text.
+- The home hero resolves from a grey wireframe into the finished photo, and portfolio tiles show an inspect-style overlay on hover.
+- Text-link header with a mint marker under the section in view, a full-width menu on tablet and phone, and a site map drawn as a flow in the footer.
+- Portfolio filter now works instantly without a reload, with the lightbox kept; the process is shown as a flow of steps.
+- Five new pages: About, Service detail with a project-brief form, Project case study, Blog index and a 404 page.
+- The single blog post is redressed with a working comment form.
+- Four HTML emails: contact reply, project brief received, comment received and newsletter welcome.
+- Rebuilt on Bootstrap 5 and Font Awesome 6 with plain JavaScript instead of jQuery; fonts are self-hosted.
+- Every button has a clear hover and focus state, and the layout works at every width from 320px up.
+- All placeholder text replaced with real copy.

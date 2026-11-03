@@ -30,6 +30,41 @@
       }
     },
     {
+      "name": "Edwin-Eden",
+      "folder": "edwin-eden",
+      "version": "2.0.0",
+      "description": "Edwin-Eden \u2013 static HTML/Bootstrap One Page website template.",
+      "idealFor": [
+        "UX and UI designers",
+        "web designers",
+        "freelance product designers",
+        "personal design portfolios"
+      ],
+      "requiredClientInputs": [
+        "personName",
+        "roleAndLocation",
+        "headshotOrHeroImage",
+        "servicesOffered",
+        "portfolioProjects",
+        "caseStudyContent",
+        "testimonials",
+        "blogPosts",
+        "contactEmail",
+        "phoneNumber",
+        "studioAddress",
+        "socialLinks"
+      ],
+      "preview": "edwin-eden/preview.png",
+      "orderNumber": "TVORD61731664",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
+    },
+    {
       "name": "Freck-le",
       "folder": "freck-le",
       "version": "1.0.0",
